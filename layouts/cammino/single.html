@@ -1,0 +1,13 @@
+{{ define "main" }}
+<article class="prose">
+  <header class="page-head">
+    <p class="kicker"><a href="{{ .Parent.RelPermalink }}">Camino de Santiago</a> · {{ .Date | time.Format "2 January 2006" }}</p>
+    <h1>Día {{ .Params.day }}: {{ .Params.route }}</h1>
+  </header>
+  {{ .Content }}
+  <nav class="pager">
+    {{ with .NextInSection }}<a href="{{ .RelPermalink }}">← Día {{ .Params.day }}</a>{{ else }}<span></span>{{ end }}
+    {{ with .PrevInSection }}<a href="{{ .RelPermalink }}">Día {{ .Params.day }} →</a>{{ end }}
+  </nav>
+</article>
+{{ end }}

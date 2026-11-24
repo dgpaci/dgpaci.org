@@ -1,0 +1,20 @@
+{{ define "main" }}
+<article class="prose">
+  <header class="page-head">
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p class="subtitle">{{ . }}</p>{{ end }}
+  </header>
+  {{ .Content }}
+  <ol class="stages">
+    {{ range .Pages.ByWeight }}
+      <li>
+        <a href="{{ .RelPermalink }}">
+          <span class="stage-day">Día {{ .Params.day }}</span>
+          <span class="stage-route">{{ .Params.route }}</span>
+        </a>
+        <span class="stage-date">{{ .Date | time.Format "2 January" }}</span>
+      </li>
+    {{ end }}
+  </ol>
+</article>
+{{ end }}

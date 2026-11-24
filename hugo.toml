@@ -1,0 +1,46 @@
+baseURL = "https://dgpaci.org/"
+locale = "it-IT"
+defaultContentLanguage = "it"
+title = "Davide Paci"
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  description = "Economista di formazione, marketer per dieci anni, oggi a metà tra il cliente e il codice. Qui racconto cosa faccio, cosa costruisco e dove cammino."
+  author = "Davide Paci"
+  motto = "Fino all’anno scorso avevo un solo difetto. Ero presuntuoso."
+  github = "https://github.com/dgpaci"
+  linkedin = "https://www.linkedin.com/in/dgpaci"
+
+[menus]
+  [[menus.main]]
+    name = "Chi sono"
+    pageRef = "/chi-sono"
+    weight = 10
+  [[menus.main]]
+    name = "Cammino"
+    pageRef = "/cammino"
+    weight = 20
+  [[menus.main]]
+    name = "Progetti"
+    pageRef = "/progetti"
+    weight = 30
+  [[menus.main]]
+    name = "Note"
+    pageRef = "/note"
+    weight = 40
+  [[menus.main]]
+    name = "Cinema"
+    pageRef = "/cinema"
+    weight = 50
+  [[menus.main]]
+    name = "Citazioni"
+    pageRef = "/citazioni"
+    weight = 60
+
+[markup.goldmark.renderer]
+  unsafe = false
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]

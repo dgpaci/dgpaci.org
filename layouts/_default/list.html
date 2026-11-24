@@ -1,0 +1,21 @@
+{{ define "main" }}
+<article class="prose">
+  <header class="page-head">
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p class="subtitle">{{ . }}</p>{{ end }}
+  </header>
+  {{ .Content }}
+  {{ with .Pages }}
+  <ul class="cards">
+    {{ range .ByWeight }}
+      <li class="card">
+        <a href="{{ .RelPermalink }}"><strong>{{ .Title }}</strong></a>
+        {{ with .Description }}<p>{{ . }}</p>{{ end }}
+      </li>
+    {{ end }}
+  </ul>
+  {{ else }}
+    {{ with .Params.empty }}<p class="empty">{{ . }}</p>{{ end }}
+  {{ end }}
+</article>
+{{ end }}

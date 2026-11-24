@@ -1,0 +1,10 @@
+<header class="site-header">
+  <a class="brand" href="{{ "/" | relURL }}">dgpaci<span>.org</span></a>
+  <nav aria-label="Menu principale">
+    {{ $current := . }}
+    {{ range site.Menus.main }}
+      {{ $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }}
+      <a href="{{ .URL }}"{{ if $active }} aria-current="page"{{ end }}>{{ .Name }}</a>
+    {{ end }}
+  </nav>
+</header>
