@@ -1,7 +1,7 @@
 ---
 title: "La casa de los espiritus"
 date: 2010-04-08
-subtitle: "Film del giorno · 8 aprile 2010"
+subtitle: "Film del giorno"
 description: "“Por qué vivía así, si le sobraba el dinero?”"
 ---
 > "Por qué vivía así, si le sobraba el dinero?" gritó Esteban  

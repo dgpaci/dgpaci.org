@@ -1,7 +1,7 @@
 ---
 title: "Gangs of New York"
 date: 2009-10-23
-subtitle: "Film del giorno · 23 ottobre 2009"
+subtitle: "Film del giorno"
 description: "“Quando uccidi un re, non lo pugnali in un vicolo. Lo uccidi dove tutta la corte può vederlo morire.”"
 ---
 > "Quando uccidi un re, non lo pugnali in un vicolo. Lo uccidi dove tutta la corte può vederlo morire."

@@ -1,7 +1,7 @@
 ---
 title: "Il miglio verde"
 date: 2009-09-20
-subtitle: "Film del giorno · 20 settembre 2009"
+subtitle: "Film del giorno"
 description: "Film del giorno, 20 settembre 2009."
 ---
 > "Sono stanco capo. Stanco di andare sempre in giro solo come un passero nella pioggia. Stanco di non poter aver mai un amico con me che mi dica dove andiamo, da dove veniamo e perché. Sono stanco soprattutto del male che gli uomini fanno ad altri uomini."

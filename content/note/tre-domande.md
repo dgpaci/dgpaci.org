@@ -1,7 +1,7 @@
 ---
 title: "Tre domande"
 date: 2013-07-09
-subtitle: "9 luglio 2013, su Facebook"
+subtitle: "Pubblicato su Facebook"
 description: "Finanza, psicologia, e la terza domanda che sorge spontanea."
 ---
 Dopo due anni di finanza, continuo a chiedermi: "ma cos'è che può spingere una persona a lavorare per un'agenzia di rating?!" O_O

@@ -1,7 +1,7 @@
 ---
 title: "Into the Wild"
 date: 2010-04-17
-subtitle: "Film del giorno · 17 aprile 2010"
+subtitle: "Film del giorno"
 description: "Film del giorno, 17 aprile 2010."
 ---
 > "Non mi servono i soldi, rendono le persone prudenti. Parafrasando quello che dice Thoreau: non l'amore, non i soldi, non la fede, non la fama, non la giustizia, datemi la verità!"  

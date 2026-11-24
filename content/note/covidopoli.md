@@ -1,7 +1,7 @@
 ---
 title: "Covidopoli"
 date: 2022-01-06
-subtitle: "6 gennaio 2022, su Facebook"
+subtitle: "Pubblicato su Facebook"
 description: "Il gioco da tavolo della pandemia. Le regole sono tutt’altro che semplici."
 ---
 🧩  Direi che a questo punto considerata la situazione non ci resta che dedicarci a un nuovo gioco: “Covidopoli”.

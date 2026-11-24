@@ -1,7 +1,7 @@
 ---
 title: "Io sono Dio"
 date: 2009-09-27
-subtitle: "Film del giorno · 27 settembre 2009"
+subtitle: "Film del giorno"
 description: "“Le guerre finiscono. L'odio dura per sempre.”"
 ---
 > "Le guerre finiscono. L'odio dura per sempre."

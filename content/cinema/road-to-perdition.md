@@ -1,7 +1,7 @@
 ---
 title: "Road to Perdition"
 date: 2009-11-07
-subtitle: "Film del giorno · 7 novembre 2009"
+subtitle: "Film del giorno"
 description: "Film del giorno, 7 novembre 2009."
 ---
 > John Rooney - ... I've always loved ya like a son and now I'm telling ya, leave, before it's too late.  

@@ -1,7 +1,7 @@
 ---
 title: "I soliti ignoti"
 date: 2010-05-23
-subtitle: "Film del giorno · 23 maggio 2010"
+subtitle: "Film del giorno"
 description: "“Dunque un modo per aprirla è quello della dinamite. Sistema che usava il famoso fu Cimin.”"
 ---
 > "Dunque un modo per aprirla è quello della dinamite. Sistema che usava il famoso fu Cimin."  

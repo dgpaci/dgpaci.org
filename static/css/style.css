@@ -90,6 +90,12 @@ main { padding: 2rem 0 3rem; }
 
 .pager { display: flex; justify-content: space-between; margin-top: 2.5rem; font-size: 0.95rem; }
 .pager a { text-decoration: none; }
+.back {
+  display: inline-block; padding: 0.45rem 0.9rem; border: 1px solid var(--rule);
+  border-radius: 999px; background: var(--card);
+}
+.back:hover { border-color: var(--accent); }
+.card .meta { font-size: 0.85rem; margin: 0 0 0.15rem; }
 .empty { color: var(--muted); font-style: italic; }
 ol li { margin-bottom: 0.75rem; }
 

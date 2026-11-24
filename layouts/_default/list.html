@@ -9,6 +9,7 @@
   <ul class="cards">
     {{ range .ByWeight }}
       <li class="card">
+        {{ if not .Date.IsZero }}<p class="meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format "2 January 2006" }}</time></p>{{ end }}
         <a href="{{ .RelPermalink }}"><strong>{{ .Title }}</strong></a>
         {{ with .Description }}<p>{{ . }}</p>{{ end }}
       </li>

@@ -1,7 +1,7 @@
 ---
 title: "V per Vendetta"
 date: 2009-11-03
-subtitle: "Film del giorno · 3 novembre 2009"
+subtitle: "Film del giorno"
 description: "“Il nostro compito è riferire le notizie, non fabbricarle, quello è compito del governo.”"
 ---
 > "Il nostro compito è riferire le notizie, non fabbricarle, quello è compito del governo."

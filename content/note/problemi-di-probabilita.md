@@ -1,7 +1,7 @@
 ---
 title: "Problemi di probabilità"
 date: 2018-10-11
-subtitle: "11 ottobre 2018, su Facebook"
+subtitle: "Pubblicato su Facebook"
 description: "Asilo, febbre e mal di schiena: calcola la probabilità."
 ---
 Problema (vers. facile): se per ogni 2 giorni di asilo facciamo 7 giorni di febbre, quanti giorni di asilo e quanti giorni di febbre faremo da qui a giugno?

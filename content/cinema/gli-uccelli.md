@@ -1,7 +1,7 @@
 ---
 title: "Gli uccelli"
 date: 2009-12-01
-subtitle: "Film del giorno · 1 dicembre 2009"
+subtitle: "Film del giorno"
 description: "“Gli uccelli non sono aggressivi, signorina. Sono il simbolo della gentilezza.”"
 ---
 > « Gli uccelli non sono aggressivi, signorina. Sono il simbolo della gentilezza. »

@@ -1,7 +1,7 @@
 ---
 title: "Un conto online che non è online"
 date: 2021-07-15
-subtitle: "15 luglio 2021, su Facebook"
+subtitle: "Pubblicato su Facebook"
 description: "Aprire e chiudere un conto BancoPosta, nell’era digitale."
 ---
 Ecco la mia storia (fortunatamente quasi conclusa) con il Conto BancoPosta di Poste Italiane. Sin dalla sua apertura la cosa risulta complicata. 🤔 Provo per giorni dall’app, considerato che è presente anche un’offerta che mi avrebbe consentito di abbattere il canone per 6 mesi, ma niente da fare, il conto dall'app non si apre. Contattato ripetutamente il Servizio Clienti, mi si consiglia di andare in Filiale (in piena pandemia). 🙄  

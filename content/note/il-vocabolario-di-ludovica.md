@@ -1,7 +1,7 @@
 ---
 title: "Il vocabolario di Ludovica"
 date: 2023-01-13
-subtitle: "13 gennaio 2023, su Facebook"
+subtitle: "Pubblicato su Facebook"
 description: "Ka-ka, ka-ke, ka-ko: guida alla traduzione."
 ---
 Il vocabolario di Ludovica al momento include queste “parole”:  

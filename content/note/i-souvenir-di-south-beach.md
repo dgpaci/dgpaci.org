@@ -1,7 +1,7 @@
 ---
 title: "I souvenir di South Beach"
 date: 2012-01-24
-subtitle: "24 gennaio 2012, su Facebook"
+subtitle: "Pubblicato su Facebook"
 description: "Per lei e per lui, direttamente dalla spiaggia di Miami."
 ---
 Per lei:  

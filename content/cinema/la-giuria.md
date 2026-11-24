@@ -1,7 +1,7 @@
 ---
 title: "La giuria"
 date: 2009-12-17
-subtitle: "Film del giorno · 17 dicembre 2009"
+subtitle: "Film del giorno"
 description: "“I processi sono troppo importanti... per lasciarli in mano alle giurie.”"
 ---
 > "I processi sono troppo importanti... per lasciarli in mano alle giurie."

@@ -1,7 +1,7 @@
 ---
 title: "Scoprendo Forrester"
 date: 2009-10-30
-subtitle: "Film del giorno · 30 ottobre 2009"
+subtitle: "Film del giorno"
 description: "“La chiave del cuore di una donna è un regalo inaspettato in un momento inaspettato.”"
 ---
 > "La chiave del cuore di una donna è un regalo inaspettato in un momento inaspettato."  

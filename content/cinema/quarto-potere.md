@@ -1,7 +1,7 @@
 ---
 title: "Quarto potere"
 date: 2010-05-12
-subtitle: "Film del giorno · 12 maggio 2010"
+subtitle: "Film del giorno"
 description: "“Il diamante più grosso del mondo? Non sapevo che facesse collezione di diamanti.”"
 ---
 > "Il diamante più grosso del mondo? Non sapevo che facesse collezione di diamanti."  

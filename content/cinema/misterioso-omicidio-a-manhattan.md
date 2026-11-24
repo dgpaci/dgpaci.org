@@ -1,7 +1,7 @@
 ---
 title: "Misterioso omicidio a Manhattan"
 date: 2009-12-25
-subtitle: "Film del giorno · 25 dicembre 2009"
+subtitle: "Film del giorno"
 description: "“Lo sai che non posso ascoltare troppo Wagner...sento già l'impulso ad occupare la Polonia!”"
 ---
 > "Lo sai che non posso ascoltare troppo Wagner...sento già l'impulso ad occupare la Polonia!"

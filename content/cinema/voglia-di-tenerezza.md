@@ -1,7 +1,7 @@
 ---
 title: "Voglia di tenerezza"
 date: 2009-12-21
-subtitle: "Film del giorno · 21 dicembre 2009"
+subtitle: "Film del giorno"
 description: "“Vuole entrare un momento?”"
 ---
 > "Vuole entrare un momento?"  

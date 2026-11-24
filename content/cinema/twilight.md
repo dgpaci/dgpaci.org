@@ -1,7 +1,7 @@
 ---
 title: "Twilight"
 date: 2009-12-02
-subtitle: "Film del giorno · 2 dicembre 2009"
+subtitle: "Film del giorno"
 description: "“Edward: E così il leone si innamorò dell'agnello.”"
 ---
 > "Edward: E così il leone si innamorò dell'agnello.  

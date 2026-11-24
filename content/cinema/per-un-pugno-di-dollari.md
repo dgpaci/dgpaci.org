@@ -1,7 +1,7 @@
 ---
 title: "Per un pugno di dollari"
 date: 2009-09-26
-subtitle: "Film del giorno · 26 settembre 2009"
+subtitle: "Film del giorno"
 description: "“Ramón: Quando si vuole uccidere un uomo bisogna colpirlo al cuore, e un Winchester è l'arma più adatta.”"
 ---
 > Ramón: Quando si vuole uccidere un uomo bisogna colpirlo al cuore, e un Winchester è l'arma più adatta.  

@@ -1,7 +1,7 @@
 ---
 title: "New Moon"
 date: 2009-12-07
-subtitle: "Film del giorno · 7 dicembre 2009"
+subtitle: "Film del giorno"
 description: "“Edward: Mmm... la tua nascita va assolutamente festeggiata!”"
 ---
 > Edward: Mmm... la tua nascita va assolutamente festeggiata!  

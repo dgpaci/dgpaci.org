@@ -1,9 +1,17 @@
 {{ define "main" }}
+{{ $back := cond .Parent.IsHome "Home" .Parent.Title }}
 <article class="prose">
   <header class="page-head">
+    <p class="kicker">
+      <a href="{{ .Parent.RelPermalink }}">← {{ $back }}</a>
+      {{- if not .Date.IsZero }} · <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format "2 January 2006" }}</time>{{ end }}
+    </p>
     <h1>{{ .Title }}</h1>
     {{ with .Params.subtitle }}<p class="subtitle">{{ . }}</p>{{ end }}
   </header>
   {{ .Content }}
+  <nav class="pager">
+    <a class="back" href="{{ .Parent.RelPermalink }}">← Torna a {{ $back }}</a>
+  </nav>
 </article>
 {{ end }}

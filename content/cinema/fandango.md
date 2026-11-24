@@ -1,7 +1,7 @@
 ---
 title: "Fandango"
 date: 2009-12-02
-subtitle: "Film del giorno · 2 dicembre 2009"
+subtitle: "Film del giorno"
 description: "“Tu sei la persona più irresponsabile che abbia mai conosciuto”"
 ---
 > "Tu sei la persona più irresponsabile che abbia mai conosciuto".  

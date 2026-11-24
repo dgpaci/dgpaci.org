@@ -1,7 +1,7 @@
 ---
 title: "La mia bici"
 date: 2013-06-18
-subtitle: "18 giugno 2013, su Facebook"
+subtitle: "Pubblicato su Facebook"
 description: "Mi rubano la bici, mezz’ora dopo vinco 500 €. E adesso?"
 ---
 Mi hanno rubato la bicicletta oggi. Era un regalo di mio padre, l'avrò usata sì e no dieci volte. Ma sono state dieci volte importanti. Ho (anzi, avevo) un sacco di ricordi importanti legati a quella bici...

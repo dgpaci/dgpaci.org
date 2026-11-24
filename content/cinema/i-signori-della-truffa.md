@@ -1,7 +1,7 @@
 ---
 title: "I signori della truffa"
 date: 2009-12-10
-subtitle: "Film del giorno · 10 dicembre 2009"
+subtitle: "Film del giorno"
 description: "“Bishop tu non hai un lavoro, hai una banda. Una banda di ragazzini. Avete una sede segreta, e quando vi incontrate vi salutate in codice.”"
 ---
 > "Bishop tu non hai un lavoro, hai una banda. Una banda di ragazzini. Avete una sede segreta, e quando vi incontrate vi salutate in codice."

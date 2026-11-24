@@ -9,5 +9,8 @@
     {{ with .NextInSection }}<a href="{{ .RelPermalink }}">← Día {{ .Params.day }}</a>{{ else }}<span></span>{{ end }}
     {{ with .PrevInSection }}<a href="{{ .RelPermalink }}">Día {{ .Params.day }} →</a>{{ end }}
   </nav>
+  <nav class="pager">
+    <a class="back" href="{{ .Parent.RelPermalink }}">← Torna al Cammino</a>
+  </nav>
 </article>
 {{ end }}

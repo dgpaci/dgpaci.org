@@ -1,7 +1,7 @@
 ---
 title: "Otto e mezzo"
 date: 2010-06-13
-subtitle: "Film del giorno · 13 giugno 2010"
+subtitle: "Film del giorno"
 description: "“Mie care, la felicità consiste nel poter dire la verità senza far mai soffrire nessuno.”"
 ---
 > "Mie care, la felicità consiste nel poter dire la verità senza far mai soffrire nessuno."

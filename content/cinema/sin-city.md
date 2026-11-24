@@ -1,7 +1,7 @@
 ---
 title: "Sin City"
 date: 2009-12-07
-subtitle: "Film del giorno · 7 dicembre 2009"
+subtitle: "Film del giorno"
 description: "“La morte del vecchio per la vita della bambina.. uno scambio equo..!”"
 ---
 > "La morte del vecchio per la vita della bambina.. uno scambio equo..!"

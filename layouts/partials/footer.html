@@ -1,5 +1,5 @@
 <footer class="site-footer">
-  <p class="motto">“{{ site.Params.motto }}”</p>
+  <p class="motto">“{{ site.Params.motto }}”{{ with site.Params.mottoAuthor }} — {{ . }}{{ end }}</p>
   <p>
     <a href="{{ site.Params.linkedin }}" rel="me">LinkedIn</a> ·
     <a href="{{ site.Params.github }}" rel="me">GitHub</a> ·

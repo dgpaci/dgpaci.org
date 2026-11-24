@@ -1,7 +1,7 @@
 ---
 title: "Chat con Vodafone"
 date: 2013-10-07
-subtitle: "7 ottobre 2013, su Facebook"
+subtitle: "Pubblicato su Facebook"
 description: "Una volta avrei spaccato il telefono. Adesso mando faccine."
 ---
 Benvenuto in Vodafone. Sei ora in chat con Stefania.  

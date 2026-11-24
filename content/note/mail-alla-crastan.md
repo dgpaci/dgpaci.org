@@ -1,7 +1,7 @@
 ---
 title: "Mail alla Crastan"
 date: 2014-05-11
-subtitle: "11 maggio 2014, su Facebook"
+subtitle: "Pubblicato su Facebook"
 description: "Informazioni nutrizionali che sommano a 101,2 grammi."
 ---
 Mail a CRASTAN S.p.a. - Oggetto: "Frizzante" segnalazione

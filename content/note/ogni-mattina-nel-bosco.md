@@ -1,7 +1,7 @@
 ---
 title: "Ogni mattina nel bosco"
 date: 2015-09-13
-subtitle: "13 settembre 2015, su Facebook"
+subtitle: "Pubblicato su Facebook"
 description: "Uomo contro ragno."
 ---
 Ogni mattina nel bosco un uomo si sveglia e sa che dovrà correre più del ragno o la sua ragazza non smetterà di urlare.

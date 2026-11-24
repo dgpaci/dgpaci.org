@@ -1,7 +1,7 @@
 ---
 title: "Un problema di storia economica"
 date: 2013-07-04
-subtitle: "4 luglio 2013, su Facebook"
+subtitle: "Pubblicato su Facebook"
 description: "Cervello, motivazione e un voto da calcolare."
 ---
 Risolvetemi questo problema.  

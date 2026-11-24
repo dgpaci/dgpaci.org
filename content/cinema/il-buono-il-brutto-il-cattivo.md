@@ -1,7 +1,7 @@
 ---
 title: "Il buono, il brutto, il cattivo"
 date: 2009-11-06
-subtitle: "Film del giorno · 6 novembre 2009"
+subtitle: "Film del giorno"
 description: "“Sto cercando un mezzo sigaro, con dietro la faccia di un gran figlio di cagna alto, biondo e che parla poco.”"
 ---
 > "Sto cercando un mezzo sigaro, con dietro la faccia di un gran figlio di cagna alto, biondo e che parla poco." (il brutto)

@@ -1,7 +1,7 @@
 ---
 title: "Il lato positivo del coronavirus"
 date: 2020-05-02
-subtitle: "2 maggio 2020, su Facebook"
+subtitle: "Pubblicato su Facebook"
 description: "L’elenco delle cose buone del lockdown. È corto."
 ---
 Ho deciso di concentrare la mia attenzione sulle cose positive di questo coronavirus:  

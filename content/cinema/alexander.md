@@ -1,7 +1,7 @@
 ---
 title: "Alexander"
 date: 2010-05-04
-subtitle: "Film del giorno · 4 maggio 2010"
+subtitle: "Film del giorno"
 description: "“Non c'è gloria senza sofferenza.”"
 ---
 > "Non c'è gloria senza sofferenza."

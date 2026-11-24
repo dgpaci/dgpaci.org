@@ -9,6 +9,7 @@ disableKinds = ["taxonomy", "term"]
   description = "Economista di formazione, marketer per dieci anni, oggi a metà tra il cliente e il codice. Qui racconto cosa faccio, cosa costruisco e dove cammino."
   author = "Davide Paci"
   motto = "Fino all’anno scorso avevo un solo difetto. Ero presuntuoso."
+  mottoAuthor = "Woody Allen"
   github = "https://github.com/dgpaci"
   linkedin = "https://www.linkedin.com/in/dgpaci"
 
@@ -37,6 +38,10 @@ disableKinds = ["taxonomy", "term"]
     name = "Citazioni"
     pageRef = "/citazioni"
     weight = 60
+  [[menus.main]]
+    name = "Pensieri"
+    pageRef = "/pensieri"
+    weight = 70
 
 [markup.goldmark.renderer]
   unsafe = false

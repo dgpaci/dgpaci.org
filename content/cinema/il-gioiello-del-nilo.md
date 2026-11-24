@@ -1,7 +1,7 @@
 ---
 title: "Il gioiello del Nilo"
 date: 2010-07-22
-subtitle: "Film del giorno · 22 luglio 2010"
+subtitle: "Film del giorno"
 description: "“Salvati tu, amor mio!”"
 ---
 > "Salvati tu, amor mio!"  

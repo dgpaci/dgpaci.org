@@ -1,7 +1,7 @@
 ---
 title: "Weekend rilassante nel bosco"
 date: 2015-09-20
-subtitle: "20 settembre 2015, su Facebook"
+subtitle: "Pubblicato su Facebook"
 description: "Cane, gatto, lavatrice: la domenica comincia alle 4."
 ---
 Ore 4.00 a.m. Gioia, l'adorabile cane della vicina, comincia ad abbaiare contro il bosco, che subisce passivamente...  

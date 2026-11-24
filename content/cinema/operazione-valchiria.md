@@ -1,7 +1,7 @@
 ---
 title: "Operazione Valchiria"
 date: 2009-10-18
-subtitle: "Film del giorno · 18 ottobre 2009"
+subtitle: "Film del giorno"
 description: "“Dobbiamo dimostrare al mondo che non eravamo tutti come lui.”"
 ---
 > « Dobbiamo dimostrare al mondo che non eravamo tutti come lui. »  
