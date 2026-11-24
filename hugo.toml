@@ -41,6 +41,10 @@ disableKinds = ["taxonomy", "term"]
 [markup.goldmark.renderer]
   unsafe = false
 
+# Risolve i link interni "/chi-sono/" anche quando il sito vive in un sottopercorso.
+[markup.goldmark.renderHooks.link]
+  useEmbedded = "fallback"
+
 [outputs]
   home = ["HTML", "RSS"]
   section = ["HTML", "RSS"]
