@@ -15,7 +15,8 @@ bene (l’altro me lo sono guadagnato [a piedi](/cammino/)).
 
 ## Il secondo strato: le persone
 
-Poi più di dieci anni di marketing digitale, prima nelle agenzie e dal 2014 con un brand tutto mio.
+Poi più di dieci anni di marketing digitale, prima nelle agenzie e dal 2014 con un brand tutto mio,
+[Pasamedia](https://pasamedia.it), che porto avanti ancora per qualche cliente.
 Siti, campagne, strategie, ma soprattutto clienti. Il marketing mi ha insegnato a stare dalla loro
 parte: capire cosa li preoccupa davvero, che quasi mai coincide con quello che c’è scritto nella
 richiesta, e spiegare le soluzioni in un modo che abbia senso per loro.

@@ -1,0 +1,24 @@
+{{ define "main" }}
+<article class="prose">
+  <header class="page-head">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.subtitle }}<p class="subtitle">{{ . }}</p>{{ end }}
+  </header>
+  {{ .Content }}
+  {{/* Le voci sono i figli di "Altro" nel menu principale: una sola fonte, in hugo.toml. */}}
+  {{ range site.Menus.main }}
+    {{ if eq .Identifier "altro" }}
+    <ul class="cards">
+      {{ range .Children }}
+        {{ with .Page }}
+        <li class="card">
+          <a href="{{ .RelPermalink }}"><strong>{{ .Title }}</strong></a>
+          {{ with .Description }}<p>{{ . }}</p>{{ end }}
+        </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+    {{ end }}
+  {{ end }}
+</article>
+{{ end }}

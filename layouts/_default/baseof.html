@@ -12,6 +12,25 @@
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:locale" content="it_IT">
   <link rel="canonical" href="{{ .Permalink }}">
+  <meta property="og:image" content="{{ "img/og.png" | absURL }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="{{ "img/apple-touch-icon.png" | relURL }}">
+  {{- if .IsHome }}
+  {{/* Dati strutturati Person: aiutano i motori di ricerca a riconoscere chi è "Davide Paci". */}}
+  {{- $ld := dict
+      "@context" "https://schema.org"
+      "@type" "Person"
+      "name" site.Params.author
+      "url" site.Home.Permalink
+      "description" site.Params.description
+      "knowsAbout" site.Params.focus
+      "alumniOf" (dict "@type" "CollegeOrUniversity" "name" "Università Bocconi")
+      "sameAs" (slice site.Params.linkedin site.Params.github) }}
+  <script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
+  {{- end }}
   {{ with .OutputFormats.Get "rss" }}<link rel="alternate" type="application/rss+xml" href="{{ .Permalink }}" title="{{ site.Title }}">{{ end }}
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 </head>

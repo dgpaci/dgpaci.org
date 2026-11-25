@@ -1,6 +1,7 @@
 {{ define "main" }}
 <section class="hero">
   {{ .Content }}
+  {{ with site.Params.focus }}<p class="focus">{{ delimit . " · " }}</p>{{ end }}
 </section>
 
 {{ with site.GetPage "/cammino" }}

@@ -12,6 +12,9 @@ disableKinds = ["taxonomy", "term"]
   mottoAuthor = "Woody Allen"
   github = "https://github.com/dgpaci"
   linkedin = "https://www.linkedin.com/in/dgpaci"
+  pasamedia = "https://pasamedia.it"
+  # Riga sotto il saluto in home: le parole che un recruiter cerca a colpo d’occhio.
+  focus = ["Delivery", "PRINCE2", "Python", "AI applicata"]
 
 [menus]
   [[menus.main]]
@@ -19,29 +22,40 @@ disableKinds = ["taxonomy", "term"]
     pageRef = "/chi-sono"
     weight = 10
   [[menus.main]]
-    name = "Cammino"
-    pageRef = "/cammino"
-    weight = 20
-  [[menus.main]]
     name = "Progetti"
     pageRef = "/progetti"
-    weight = 30
+    weight = 20
+  # "Mestiere" si aggiunge da sé (front matter di content/mestiere/_index.md) quando la sezione
+  # esce dalla bozza.
+  [[menus.main]]
+    name = "Cammino"
+    pageRef = "/cammino"
+    weight = 40
+  [[menus.main]]
+    identifier = "altro"
+    name = "Altro"
+    pageRef = "/altro"
+    weight = 50
   [[menus.main]]
     name = "Note"
     pageRef = "/note"
-    weight = 40
+    parent = "altro"
+    weight = 10
   [[menus.main]]
     name = "Cinema"
     pageRef = "/cinema"
-    weight = 50
+    parent = "altro"
+    weight = 20
   [[menus.main]]
     name = "Citazioni"
     pageRef = "/citazioni"
-    weight = 60
+    parent = "altro"
+    weight = 30
   [[menus.main]]
     name = "Pensieri"
     pageRef = "/pensieri"
-    weight = 70
+    parent = "altro"
+    weight = 40
 
 [markup.goldmark.renderer]
   unsafe = false
