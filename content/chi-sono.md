@@ -4,16 +4,18 @@ subtitle: "Tre strati che, con un po’ di pazienza, hanno imparato a parlarsi."
 description: "Economia, marketing, codice: come ci sono arrivato e cosa ci faccio adesso."
 ---
 
-## Il primo strato: i numeri
+## I numeri
 
-Ho studiato economia alla Bocconi. Mi è rimasto un vizio: prima di fare qualsiasi cosa mi chiedo
-quanto costa e cosa rende. Lo faccio anche con le vacanze, e ammetto che non sempre è un pregio.
+Ho studiato economia alla Bocconi, un ambiente dove si corre parecchio e si impara presto a
+ragionare per risultati. Me ne sono portato via due cose: guardare avanti, per capire dove si va a
+parare prima di arrivarci, e la caparbietà di andarci davvero. La seconda è quella che conta di più:
+c’è dietro ogni scelta che trovi in questa pagina.
 
 Il primo lavoro serio l’ho fatto a Santiago. Non quello della Galizia, quello del Cile: sei mesi
 alla Camera di Commercio Italiana, in spagnolo dalla mattina alla sera. A quanto pare Santiago mi porta
 bene (l’altro me lo sono guadagnato [a piedi](/cammino/)).
 
-## Il secondo strato: le persone
+## Le persone
 
 Poi più di dieci anni di marketing digitale, prima nelle agenzie e dal 2014 con un brand tutto mio,
 [Pasamedia](https://pasamedia.it), che porto avanti ancora per qualche cliente.
@@ -21,11 +23,11 @@ Siti, campagne, strategie, ma soprattutto clienti. Il marketing mi ha insegnato 
 parte: capire cosa li preoccupa davvero, che quasi mai coincide con quello che c’è scritto nella
 richiesta, e spiegare le soluzioni in un modo che abbia senso per loro.
 
-## Il terzo strato: il codice
+## Il codice
 
 Nel 2020 sono entrato in una software house come consulente di marketing. Qualche anno dopo ero
-core developer del loro framework open source. Non so bene come sia successo, ma so che non sono più
-uscito dalla porta da cui ero entrato.
+core developer del loro framework open source: nessuno me l’aveva chiesto, ho insistito finché non è
+diventato il mio lavoro. Dalla porta da cui ero entrato non sono più uscito.
 
 Oggi guido la delivery di un gestionale per un cliente di livello nazionale: requisiti, stime,
 pianificazione, un team da coordinare, rilasci, e una volta al mese un treno per Roma, perché certe
