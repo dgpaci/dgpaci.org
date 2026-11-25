@@ -2,12 +2,12 @@
 <article class="prose">
   <header class="page-head">
     <h1>{{ .Title }}</h1>
-    {{ with .Params.subtitle }}<p class="subtitle">{{ . }}</p>{{ end }}
+    {{ with .Params.subtitle }}<p class="subtitle">{{ . | markdownify }}</p>{{ end }}
   </header>
   {{ .Content }}
-  {{/* Le voci sono i figli di "Altro" nel menu principale: una sola fonte, in hugo.toml. */}}
+  {{/* Le voci sono i figli della voce "raccolta" nel menu principale: una sola fonte, in hugo.toml. */}}
   {{ range site.Menus.main }}
-    {{ if eq .Identifier "altro" }}
+    {{ if eq .Identifier "raccolta" }}
     <ul class="cards">
       {{ range .Children }}
         {{ with .Page }}

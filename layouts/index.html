@@ -1,5 +1,10 @@
 {{ define "main" }}
 <section class="hero">
+  {{/* Ritaglio quadrato 2x per lo schermo, in webp: Hugo rielabora l'originale e ne toglie i metadati. */}}
+  {{ with resources.Get "img/davide.webp" }}
+    {{ $img := .Fill "320x320 Center webp q80" }}
+    <img class="avatar" src="{{ $img.RelPermalink }}" width="160" height="160" alt="Davide in montagna, sorridente, davanti a un lago alpino">
+  {{ end }}
   {{ .Content }}
   {{ with site.Params.focus }}<p class="focus">{{ delimit . " · " }}</p>{{ end }}
 </section>

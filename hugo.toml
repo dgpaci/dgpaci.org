@@ -28,33 +28,34 @@ disableKinds = ["taxonomy", "term"]
   # "Mestiere" si aggiunge da sé (front matter di content/mestiere/_index.md) quando la sezione
   # esce dalla bozza.
   [[menus.main]]
+    identifier = "raccolta"
+    name = "Coffee and Cigarettes"
+    pageRef = "/coffee-and-cigarettes"
+    weight = 50
+  [[menus.main]]
     name = "Cammino"
     pageRef = "/cammino"
-    weight = 40
-  [[menus.main]]
-    identifier = "altro"
-    name = "Altro"
-    pageRef = "/altro"
-    weight = 50
+    parent = "raccolta"
+    weight = 5
   [[menus.main]]
     name = "Note"
     pageRef = "/note"
-    parent = "altro"
+    parent = "raccolta"
     weight = 10
   [[menus.main]]
     name = "Cinema"
     pageRef = "/cinema"
-    parent = "altro"
+    parent = "raccolta"
     weight = 20
   [[menus.main]]
     name = "Citazioni"
     pageRef = "/citazioni"
-    parent = "altro"
+    parent = "raccolta"
     weight = 30
   [[menus.main]]
     name = "Pensieri"
     pageRef = "/pensieri"
-    parent = "altro"
+    parent = "raccolta"
     weight = 40
 
 [markup.goldmark.renderer]
