@@ -1,6 +1,7 @@
 ---
 title: "forge-desk"
 weight: 1
+gruppo: strumenti
 description: "Una sola vista su issue e pull request sparse tra GitHub e Forgejo, ordinate per una domanda: chi deve muoversi adesso?"
 ---
 

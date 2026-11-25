@@ -1,0 +1,25 @@
+{{ define "main" }}
+{{/* Le schede si dividono nei gruppi elencati nel front matter di content/progetti/_index.md:
+     ogni pagina dichiara il suo con il parametro "gruppo". */}}
+<article class="prose">
+  <header class="page-head">
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p class="subtitle">{{ . }}</p>{{ end }}
+  </header>
+  {{ .Content }}
+  {{ range $gruppo := .Params.gruppi }}
+    {{ with where $.Pages "Params.gruppo" $gruppo.key }}
+    <h2>{{ $gruppo.titolo }}</h2>
+    {{ with $gruppo.intro }}<p>{{ . }}</p>{{ end }}
+    <ul class="cards">
+      {{ range .ByWeight }}
+        <li class="card">
+          <a href="{{ .RelPermalink }}"><strong>{{ .Title }}</strong></a>
+          {{ with .Description }}<p>{{ . }}</p>{{ end }}
+        </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  {{ end }}
+</article>
+{{ end }}

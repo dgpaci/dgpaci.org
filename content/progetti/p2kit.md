@@ -1,6 +1,7 @@
 ---
 title: "p2kit"
 weight: 2
+gruppo: strumenti
 description: "Project management in ottica PRINCE2® dentro Claude Code: una skill per processo, documenti versionati nel repository, una scrivania con tutti i progetti."
 ---
 
