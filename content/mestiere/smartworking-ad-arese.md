@@ -2,7 +2,6 @@
 title: "Smartworking ad Arese"
 description: "Virtuosi del lavoro da casa, nonostante tutto."
 date: 2020-03-02
-draft: true
 ---
 
 Ad Arese sì che siamo dei virtuosi dello smartworking: non solo abbiamo i figli a casa, ma ci

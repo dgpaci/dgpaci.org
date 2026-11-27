@@ -2,7 +2,6 @@
 title: "Il tempo risparmiato"
 description: "Cosa farne del tempo che gli strumenti ci restituiscono."
 date: 2026-08-18
-draft: true
 ---
 
 *Commento a un post sul rischio di non staccare mai la spina.*

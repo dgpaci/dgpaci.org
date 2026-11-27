@@ -2,7 +2,6 @@
 title: "La cache di Chrome"
 description: "Quando il comune di Pescara batte Google su Google."
 date: 2024-09-12
-draft: true
 ---
 
 Il primo risultato su Google per la ricerca “come cancellare la cache di chrome” è una pagina del

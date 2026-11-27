@@ -2,7 +2,6 @@
 title: "L’AI e l’open source"
 description: "Tanto codice, pochi progetti."
 date: 2026-07-24
-draft: true
 ---
 
 > The difference between a piece of code on GitHub and an open-source project is that an

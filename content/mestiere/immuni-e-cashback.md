@@ -2,7 +2,6 @@
 title: "Immuni e il cashback"
 description: "Si scarica quello di cui si capisce il valore."
 date: 2020-12-12
-draft: true
 ---
 
 *Commento a un post che spiegava il flop di Immuni con la paura per la privacy.*

@@ -2,7 +2,6 @@
 title: "Imprese di famiglia"
 description: "Il sapere si tramanda, il talento imprenditoriale non sempre."
 date: 2020-07-06
-draft: true
 ---
 
 *Commento a un post secondo cui fare l’imprenditore significa cercare soluzioni invece di

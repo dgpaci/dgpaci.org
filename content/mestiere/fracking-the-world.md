@@ -3,7 +3,6 @@ title: "Fracking the world"
 date: 2013-03-25
 subtitle: "Pubblicato su E-cology"
 description: "Lo shale gas sta cambiando il mercato dell’energia. Ma a quale prezzo?"
-draft: true
 aliases: ["/note/fracking-the-world/"]
 ---
 Quello del fracking è un fenomeno di cui si parla ormai da qualche anno, e che per le sue promesse così rivoluzionarie di fatto spacca il mondo in due: quelli che vedono questa tecnica come la “manna dal cielo”, come un metodo di estrazione che ci permetterà di produrre energia a basso costo prolungando ancora per un po’ le nostre riserve di combustibili fossili, e quelli che invece la vedono come una maledizione con conseguenze ambientali disastrose e irreversibili.
