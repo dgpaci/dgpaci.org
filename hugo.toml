@@ -25,8 +25,7 @@ disableKinds = ["taxonomy", "term"]
     name = "Progetti"
     pageRef = "/progetti"
     weight = 20
-  # "Mestiere" si aggiunge da sé (front matter di content/mestiere/_index.md) quando la sezione
-  # esce dalla bozza.
+  # "Lavoro" si aggiunge da sé dal front matter di content/lavoro/_index.md.
   [[menus.main]]
     identifier = "raccolta"
     name = "Coffee and Cigarettes"

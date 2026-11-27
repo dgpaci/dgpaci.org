@@ -2,6 +2,7 @@
 title: "Accrocchi"
 description: "Un dialogo con Claude."
 date: 2026-06-16
+aliases: ["/mestiere/accrocchi/"]
 ---
 
 **DP**: “Claude, stai accrocchiando delle soluzioni ma l’approccio non è quello giusto…”

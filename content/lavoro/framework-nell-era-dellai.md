@@ -2,6 +2,7 @@
 title: "I framework nell’era dell’AI"
 description: "Pensavo che i framework non servissero più. Servono ancora, ma a qualcun altro."
 date: 2026-10-13
+aliases: ["/mestiere/framework-nell-era-dellai/"]
 ---
 
 Da un po’ di tempo pensavo che i framework non avessero più ragione d’essere. Oggi mi sono

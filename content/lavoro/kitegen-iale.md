@@ -3,7 +3,7 @@ title: "KiteGen…iale???"
 date: 2013-12-19
 subtitle: "Pubblicato su E-cology, scritto con Paolo"
 description: "Un aquilone per produrre energia in alta quota. Ma funzionerà davvero?"
-aliases: ["/note/kitegen-iale/"]
+aliases: ["/note/kitegen-iale/", "/mestiere/kitegen-iale/"]
 ---
 Ormai più di un anno fa ci è capitato di trattare l’argomento KiteGen, ai tempi con toni incantati, entusiastici, nella profonda convinzione di trovarci di fronte a qualcosa davvero in grado di cambiare il mondo. Purtroppo da allora niente di stravolgente è successo, le critiche al progetto si sono moltiplicate, gli investitori sono scappati a gambe levate, il che ci ha obbligato a riconsiderare in modo più disincantato la questione. Ecco il perché di questo titolo provocatorio. Ma andiamo con ordine.
 
